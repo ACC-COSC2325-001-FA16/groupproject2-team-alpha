@@ -6,4 +6,6 @@ To upload code to arduino: Run script by typing ./mkl(short for "make load") in 
 
 First commit: Uploading project structure to provide all members with access. Code under construction. It uploads to arduino succesfully.
 
+Second commit: Changed project to: Two LED's now blink depending on the distance sensed by the ultrasonic sensor. Blue blinks for each foot,then red blinks for each inch. Both blink at every sensing cycle. 
+
 
