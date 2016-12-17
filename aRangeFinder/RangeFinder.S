@@ -139,7 +139,8 @@ checkEchoStop:
 	ret
 /***END checkEchoStop *************/
 
-//******* TIMERS start ***********************//
+
+//********************  TIMERS START *******************************************//
 
 long_delay:				;Delay 500 ms
     	ldi  r18, 41
@@ -211,7 +212,7 @@ micro150:
     	nop
 	ret
 
-/**************************  LED 13 tests Start *********************************/
+/**************************  LED 13 TESTS and SIGNALS Start *********************************/
 
 flashBlueRedOn:
 	sbi	LED_PORT, LED_PIN
