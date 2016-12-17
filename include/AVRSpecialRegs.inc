@@ -5,8 +5,8 @@
 ; I/O ports -------------------------------------
 
 ; PORTB --------------------------------------
-; PINB: 0x03 (0x23)
-;#define _PINB   _SFR_IO_ADDR(PINB)
+PINB: 0x03 (0x23)
+#define _PINB   _SFR_IO_ADDR(PINB)
 
 ; DDRB: 0x04 (0x24)
 #define _DDRB   _SFR_IO_ADDR(DDRB)

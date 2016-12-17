@@ -10,9 +10,9 @@
         //.global     long_delay
         //.global     micro_delay
         .global     main
-		.global		setup
-		.global		flashBlueRedOn
-		.global		flashBlueRedOff
+		//.global		setup
+		//.global		flashBlueRedOn
+		//.global		flashBlueRedOff
         
         .org        0x0000
 
