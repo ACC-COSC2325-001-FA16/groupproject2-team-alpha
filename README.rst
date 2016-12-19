@@ -10,6 +10,6 @@ Second commit: Changed project to: Two LED's now blink depending on the distance
 
 Third commit: Changed some special register file names.
 
-Fourth commit: Added fritxing image.
+Fourth commit: Added fritzing image.
 
 
