@@ -8,4 +8,8 @@ First commit: Uploading project structure to provide all members with access. Co
 
 Second commit: Changed project to: Two LED's now blink depending on the distance sensed by the ultrasonic sensor. Blue blinks for each foot,then red blinks for each inch. Both blink at every sensing cycle. 
 
+Third commit: Changed some special register file names.
+
+Fourth commit: Added fritxing image.
+
 
